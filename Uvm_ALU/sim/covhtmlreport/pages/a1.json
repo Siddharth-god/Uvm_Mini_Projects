@@ -1,0 +1,24 @@
+var g_data = {
+a721:{
+scopes:[{s:'713',b:'0',val:'alu_pkg'},{val:'alu_rst_seq'},{val:'body'},{link:'z.htm?f=0&s=721',val:'#ublk#138110839#16'}]
+,assertions:[{dummy:0},{cr:'c',c:'g',z:'immed__18',fc:'Gr',pc:'Gr',h0:'0',h1:'1'}
+],
+},
+a733:{
+scopes:[{s:'713',b:'1',val:'alu_pkg'},{val:'alu_wrap_seq'},{val:'body'},{link:'z.htm?f=0&s=733',val:'#ublk#138110839#117'}]
+,assertions:[{dummy:0},{cr:'c',c:'g',z:'immed__120',fc:'Gr',pc:'Gr',h0:'0',h1:'1'}
+],
+},
+a776:{
+scopes:[{s:'768',b:'0',val:'work.alu_pkg'},{val:'alu_rst_seq'},{val:'body'},{link:'z.htm?f=0&s=776',val:'#ublk#138110839#16'}]
+,assertions:[{dummy:0},{cr:'c',c:'g',z:'immed__18',fc:'Gr',pc:'Gr',h0:'0',h1:'1'}
+],
+},
+a788:{
+scopes:[{s:'768',b:'1',val:'work.alu_pkg'},{val:'alu_wrap_seq'},{val:'body'},{link:'z.htm?f=0&s=788',val:'#ublk#138110839#117'}]
+,assertions:[{dummy:0},{cr:'c',c:'g',z:'immed__120',fc:'Gr',pc:'Gr',h0:'0',h1:'1'}
+],
+},
+dummyEnd:0
+};
+processAssertionsData(g_data,1);

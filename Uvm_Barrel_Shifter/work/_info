@@ -1,0 +1,153 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Siddharth/Verilog/Maven_Silicon/Uvm_Projects/Uvm_Barrel_Shifter
+T_opt
+!s110 1774442862
+VdPGj5P?H=?VnW0K>gi6AR3
+04 6 4 work uvm_bs fast 0
+=1-c8a3e8027ab7-69c3d96d-203-80a8
+o-quiet -auto_acc_if_foreign -work work +acc=rn
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vbarrel_shifter
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z3 !s110 1774442851
+!i10b 1
+!s100 cgL<=GkCeZ3]c13H4:@GK1
+Ig>Um=PDcbd8AJ0hNYM>EB3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 barrel_shifter_v_unit
+S1
+R0
+w1774254443
+8barrel_shifter.v
+Fbarrel_shifter.v
+L0 1
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1774442851.000000
+Z7 !s107 C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|uvm_bs.sv|barrel_shifter_if.sv|bs_assertions.sv|barrel_shifter.v|
+Z8 !s90 -sv|+acc|barrel_shifter.v|bs_assertions.sv|barrel_shifter_if.sv|uvm_bs.sv|
+!i113 0
+Z9 o-sv +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+Ybarrel_shifter_if
+R2
+R3
+!i10b 1
+!s100 0451mPUk0[9IjQW@V:TIF0
+I]aDamBYOTncHif6SP4`L41
+R4
+!s105 barrel_shifter_if_sv_unit
+S1
+R0
+w1774254434
+8barrel_shifter_if.sv
+Fbarrel_shifter_if.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+vbs_assertions
+R2
+R3
+!i10b 1
+!s100 @71P:BjzeT8TJ5e;?X;0e0
+I9AWU<?jgA0[>>S`89c;XD3
+R4
+!s105 bs_assertions_sv_unit
+S1
+R0
+w1774440330
+8bs_assertions.sv
+Fbs_assertions.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+vuvm_bs
+R2
+Z10 DXx6 mtiUvm 7 uvm_pkg 0 22 3zPkj@YUcM=M^m3zCLh<H1
+DXx4 work 14 uvm_bs_sv_unit 0 22 2IKlz@_U[D[6h`dJLm<oS1
+R4
+r1
+!s85 0
+!i10b 1
+!s100 >ZaCMhG0M]DXB3m[Qz7fl1
+ISJdRj]f_KlBE]]16cQdEn2
+!s105 uvm_bs_sv_unit
+S1
+R0
+Z11 w1774442706
+Z12 8uvm_bs.sv
+Z13 Fuvm_bs.sv
+L0 371
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+Xuvm_bs_sv_unit
+!s115 barrel_shifter_if
+R2
+R10
+V2IKlz@_U[D[6h`dJLm<oS1
+r1
+!s85 0
+!i10b 1
+!s100 ?m4[@JBbBXhTfXY0i6]3k1
+I2IKlz@_U[D[6h`dJLm<oS1
+!i103 1
+S1
+R0
+R11
+R12
+R13
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh
+FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh
+L0 2
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
