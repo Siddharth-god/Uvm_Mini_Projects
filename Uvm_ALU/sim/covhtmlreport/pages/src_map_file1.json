@@ -1,3 +1,0 @@
-var g_data = {'dummy':null,
-'1':'../in_agent_top/alu_in_seqs.sv',
-'2':'../test/alu_pkg.sv'};

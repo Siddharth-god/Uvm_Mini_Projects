@@ -1,7 +1,0 @@
-var g_data = {'dummy':{null},
-'/alu_pkg/alu_rst_seq/body/#ublk#138110839#16':{h:'721',a:1,z:1},
-'/alu_pkg/alu_wrap_seq/body/#ublk#138110839#117':{h:'733',a:1,z:1},
-'/alu_pkg':{h:'713',z:1},
-'work.alu_pkg::alu_rst_seq/body/#ublk#138110839#16':{h:'776',a:1,z:1},
-'work.alu_pkg::alu_wrap_seq/body/#ublk#138110839#117':{h:'788',a:1,z:1},
-'work.alu_pkg':{h:'4',z:1}};
